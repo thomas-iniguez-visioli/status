@@ -1,7 +1,8 @@
 # Change these first
 owner: alphaleadership # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-
+assignees:
+  - alphaleadership
 sites:
   - name: Google
     url: https://www.google.com
