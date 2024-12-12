@@ -1,0 +1,32 @@
+name: add site 
+description: Show off your Eleventy site on the Eleventy documentation
+title: "nouveau site a ajoutée"
+labels: site
+body:
+  
+  - type: input
+    id: url
+    attributes:
+      label: Site URL
+      description: lien du site  _[parser:url]_
+      placeholder: e.g. https://www.zachleat.com/
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Please note that site HTML must now include a `<meta name="generator" content="Eleventy">` (or at least `Eleventy` somewhere in the `content` attribute) to be eligible for the Eleventy Leaderboards.
+  - type: input
+    id: name
+    attributes:
+      label: Source code URL
+      description: "nom du site pour l'interface "
+      placeholder: e.g. github
+    validations:
+      required: true
+  
+
+
+
+
+
