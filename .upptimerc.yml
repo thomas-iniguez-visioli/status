@@ -20,6 +20,10 @@ sites:
     url: https://twitch.tv
   - name: github
     url: https://github.com
+  - name: stack
+    url: https://stackoverflow.com
+  - name: toutatice
+    url: https://www.toutatice.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
