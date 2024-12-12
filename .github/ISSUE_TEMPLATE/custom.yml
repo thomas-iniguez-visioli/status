@@ -1,7 +1,7 @@
 name: add site 
 description: Show off your Eleventy site on the Eleventy documentation
 title: "nouveau site a ajoutée"
-labels: site
+labels: [site]
 body:
   
   - type: input
@@ -19,7 +19,7 @@ body:
   - type: input
     id: name
     attributes:
-      label: Source code URL
+      label: nom
       description: "nom du site pour l'interface "
       placeholder: e.g. github
     validations:
