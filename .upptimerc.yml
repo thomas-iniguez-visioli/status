@@ -5,6 +5,16 @@ assignees:
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Google Maps
+    url: https://maps.google.com
+  - name: Google Drive
+    url: https://drive.google.com
+  - name: Google Photos
+    url: https://photos.google.com
+  - name: ProtonMail
+    url: https://protonmail.com
+  - name: ProtonVPN
+    url: https://protonvpn.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -12,7 +22,7 @@ sites:
   - name: discord
     url: https://discord.com
   - name: twitter
-    url: https://x.com
+    url: https://twitter.com
   - name: instagram
     url: https://instagram.com
   - name: twitch
