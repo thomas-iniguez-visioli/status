@@ -35,7 +35,6 @@ sites:
     url: https://www.toutatice.fr
   - name: linkedin
     url: https://www.linkedin.com
-  
 status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
