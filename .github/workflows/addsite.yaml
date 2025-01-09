@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add *
+          git add .upptimerc.yml
           git commit -m "Adding data file for #${{ env.IssueNumber }}"
           git push
       - name: Close issue
