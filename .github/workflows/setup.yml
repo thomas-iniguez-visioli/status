@@ -40,7 +40,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add *  */*
+          git add *  */* .
           git commit -m "update list "
           git push
       - name: Update template
