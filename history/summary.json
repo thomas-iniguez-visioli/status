@@ -163,8 +163,8 @@
   },
   {
     "name": "twitter",
-    "url": "https://twitter.com",
-    "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
+    "url": "https://x.com",
+    "icon": "https://icons.duckduckgo.com/ip3/x.com.ico",
     "slug": "twitter",
     "status": "up",
     "uptime": "99.96%",
@@ -180,6 +180,24 @@
     "dailyMinutesDown": {
       "2025-01-07": 16
     }
+  },
+  {
+    "name": "twitterold",
+    "url": "https://twitter.com",
+    "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
+    "slug": "twitterold",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 149,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
+    "dailyMinutesDown": {}
   },
   {
     "name": "instagram",
