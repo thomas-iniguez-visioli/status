@@ -23,6 +23,8 @@ sites:
     url: https://discord.com
   - name: twitter
     url: https://x.com
+  - name: twitterold
+    url: https://twitter.com
   - name: instagram
     url: https://instagram.com
   - name: twitch
