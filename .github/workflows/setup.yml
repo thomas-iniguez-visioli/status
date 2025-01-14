@@ -36,13 +36,8 @@ jobs:
         uses: actions/setup-node@v4.1.0
       - name: run generator
         run: npm run test
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add  .
-          git commit -m "update list "
-          git push
+   
+          
       - name: Update template
         uses: upptime/uptime-monitor@v1.38.0
         with:
