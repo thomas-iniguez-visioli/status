@@ -46,14 +46,15 @@ jobs:
        
 
         with:
-          permissions: write-all
+         
           command: "update-template"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
       - name: Update response time
         uses: upptime/uptime-monitor@v1.38.0
         with:
-          permissions: write-all
+          
           command: "response-time"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
