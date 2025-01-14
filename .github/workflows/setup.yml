@@ -15,9 +15,6 @@
 
 
 name: Setup CI
-permissions: write-all
-
- 
 on:
   push:
     paths:
@@ -35,26 +32,15 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v4.1.0
-      - name: run generator
-        run: npm run test
-   
-          
       - name: Update template
         uses: upptime/uptime-monitor@v1.38.0
-       
-
         with:
-         
           command: "update-template"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-      - uses: stefanzweifel/git-auto-commit-action@v5
       - name: Update response time
         uses: upptime/uptime-monitor@v1.38.0
         with:
-          
           command: "response-time"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}

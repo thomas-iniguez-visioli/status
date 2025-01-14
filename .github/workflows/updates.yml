@@ -15,7 +15,6 @@
 
 
 name: Updates CI
-permissions: write-all
 on:
   schedule:
     - cron: "0 3 * * *"
