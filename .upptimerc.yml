@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: grisebouille
-    url: https://grisebouille.net
+    url: https://grisebouille.net/
   - name: Google Maps
     url: https://maps.google.com
   - name: Google Drive
