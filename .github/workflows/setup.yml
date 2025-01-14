@@ -15,6 +15,9 @@
 
 
 name: Setup CI
+permissions: write-all
+
+ 
 on:
   push:
     paths:
