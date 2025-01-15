@@ -294,18 +294,20 @@
     "url": "https://www.toutatice.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.toutatice.fr.ico",
     "slug": "toutatice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1997,
-    "timeDay": 11057,
-    "timeWeek": 4546,
-    "timeMonth": 2093,
-    "timeYear": 1997,
-    "dailyMinutesDown": {}
+    "time": 1967,
+    "timeDay": 8488,
+    "timeWeek": 4170,
+    "timeMonth": 2054,
+    "timeYear": 1967,
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   },
   {
     "name": "linkedin",
