@@ -112,19 +112,19 @@
     "url": "https://protonvpn.com",
     "icon": "https://icons.duckduckgo.com/ip3/protonvpn.com.ico",
     "slug": "proton-vpn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 969,
-    "timeDay": 869,
-    "timeWeek": 967,
-    "timeMonth": 969,
-    "timeYear": 969,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 965,
+    "timeDay": 883,
+    "timeWeek": 962,
+    "timeMonth": 965,
+    "timeYear": 965,
     "dailyMinutesDown": {
-      "2025-01-20": 0
+      "2025-01-20": 21
     }
   },
   {
