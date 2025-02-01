@@ -40,19 +40,19 @@
     "url": "https://maps.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/maps.google.com.ico",
     "slug": "google-maps",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 337,
-    "timeWeek": 252,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 237,
+    "timeDay": 321,
+    "timeWeek": 256,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-02-01": 0
+      "2025-02-01": 19
     }
   },
   {
