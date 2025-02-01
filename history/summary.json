@@ -40,18 +40,20 @@
     "url": "https://maps.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/maps.google.com.ico",
     "slug": "google-maps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 202,
-    "timeWeek": 220,
-    "timeMonth": 225,
-    "timeYear": 225,
-    "dailyMinutesDown": {}
+    "time": 235,
+    "timeDay": 337,
+    "timeWeek": 252,
+    "timeMonth": 235,
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "Google Drive",
