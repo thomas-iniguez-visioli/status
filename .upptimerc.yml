@@ -10,8 +10,23 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-
-
+  - name: discord
+    url: https://discord.com
+  - name: twitter
+    url: https://twitter.com
+  - name: instagram
+    url: https://instagram.com
+  - name: twitch
+    url: https://twitch.tv
+  - name: github
+    url: https://github.com
+  - name: stack
+    url: https://stackoverflow.com
+  - name: toutatice
+    url: https://www.toutatice.fr
+  - name: linkedin
+    url: https://www.linkedin.com 
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
