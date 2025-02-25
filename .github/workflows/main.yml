@@ -1,0 +1,37 @@
+name: Delete Issues with Status Tag
+
+on:
+  workflow_dispatch: # Permet d'exécuter le workflow manuellement
+
+jobs:
+  delete_issues:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Delete issues with "status" tag
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Utilise le token d'accès personnel de GitHub
+        run: |
+          # Installation des dépendances nécessaires
+          npm install @octokit/rest
+
+          # Script pour supprimer les issues avec le tag "status"
+          node -e "
+          const { Octokit } = require('@octokit/rest');
+          const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+
+          async function deleteIssuesWithStatusTag(owner, repo) {
+            const { data: issues } = await octokit.issues.listForRepo({ owner, repo });
+            const issuesWithStatus = issues.filter(issue => issue.labels.some(label => label.name === 'status'));
+
+            for (const issue of issuesWithStatus) {
+              await octokit.issues.delete({ owner, repo, issue_number: issue.number });
+              console.log('Issue #' + issue.number + ' supprimée.');
+            }
+          }
+
+          deleteIssuesWithStatusTag('${{ github.repository_owner }}', '${{ github.event.repository.name }}');
+          "
