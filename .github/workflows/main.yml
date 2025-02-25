@@ -15,23 +15,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Utilise le token d'accès personnel de GitHub
         run: |
-          # Installation des dépendances nécessaires
-          npm install @octokit/rest
+          # Récupérer toutes les issues
+          issues=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/issues?state=open")
 
-          # Script pour supprimer les issues avec le tag "status"
-          node -e "
-          const { Octokit } = require('@octokit/rest');
-          const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+          # Supprimer les issues avec le tag "status"
+          echo "$issues" | jq -c '.[]' | while IFS= read -r issue; do
+            issue_number=$(echo "$issue" | jq -r '.number')
+            labels=$(echo "$issue" | jq -r '.labels | map(.name)')
 
-          async function deleteIssuesWithStatusTag(owner, repo) {
-            const { data: issues } = await octokit.issues.listForRepo({ owner, repo });
-            const issuesWithStatus = issues.filter(issue => issue.labels.some(label => label.name === 'status'));
-
-            for (const issue of issuesWithStatus) {
-              await octokit.issues.delete({ owner, repo, issue_number: issue.number });
-              console.log('Issue #' + issue.number + ' supprimée.');
-            }
-          }
-
-          deleteIssuesWithStatusTag('${{ github.repository_owner }}', '${{ github.event.repository.name }}');
-          "
+            if echo "$labels" | grep -q "status"; then
+              echo "Deleting issue #$issue_number"
+              curl -s -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
+                "https://api.github.com/repos/${{ github.repository }}/issues/$issue_number"
+            fi
+          done
