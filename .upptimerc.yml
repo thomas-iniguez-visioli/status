@@ -28,7 +28,46 @@ sites:
     url: https://www.toutatice.fr
   - name: linkedin
     url: https://www.linkedin.com 
-  
+i18n:
+  activeIncidents: Incidents en cours
+  allSystemsOperational: Tous les systèmes fonctionnent
+  activeIncidentSummary: Ouvert le $DATE et a $POSTS publications
+  averageResponseTime: "Temps de réponse moyen : $TIME ms"
+  duration: Durée
+  durationMin: $DURATION minutes
+  duration1Y: 1 an
+  durationAll: tout
+  errorHome: Retour à la page d'accueil
+  errorTitle: Une erreur est survenue
+  errorText: Vous pouvez réessayer dans un moment.
+  history: Historique
+  incidentCompleted: Terminé
+  incidentReport: "Rapport d'incident n° $NUMBER →"
+  incidentFixed: Résolu
+  incidentOngoing: En cours
+  incidentScheduled: Prévu
+  incidentOpenedAt: Ouvert à
+  incidentClosedAt: Fermé à
+  incidentViewOnGitHub: Voir et suivre sur GitHub
+  liveStatus: Statut en direct
+  overallUptimeTitle: Disponibilité totale
+  overallUptime: "Disponibilité totale : $UPTIME"
+  pastScheduledMaintenance: Maintenance planifiée précédente
+  startedAt: Commencé à
+  startsAt: Commence à
+  scheduledMaintenance: Maintenance planifiée
+  scheduledMaintenanceSummaryStarted: Commencé le $DATE pendant $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Commence le $DATE dans $DURATION minutes
+  responseTime: Temps de réponse
+  responseTimeMs: Temps de réponse (ms)
+  uptime: Disponibilité
+  up: En ligne
+  down: Hors ligne
+  degraded: Dégradé
+  loading: Chargement
+  footer: "Cette page est [open source]($REPO) et fonctionne avec [Upptime](https://upptime.js.org)."
+  locale: fr-FR
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
