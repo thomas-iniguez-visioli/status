@@ -14,6 +14,8 @@ sites:
     url: https://discord.com
   - name: twitter
     url: https://x.com
+    expectedStatusCodes:
+        - 400
   - name: instagram
     url: https://instagram.com
   - name: twitch
