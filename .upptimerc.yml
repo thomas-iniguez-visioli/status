@@ -29,44 +29,68 @@ sites:
   - name: linkedin
     url: https://www.linkedin.com 
 i18n:
-  activeIncidents: Incidents en cours
-  allSystemsOperational: Tous les systèmes fonctionnent
-  activeIncidentSummary: Ouvert le $DATE et a $POSTS publications
-  averageResponseTime: "Temps de réponse moyen : $TIME ms"
-  duration: Durée
-  durationMin: $DURATION minutes
-  duration1Y: 1 an
-  durationAll: tout
-  errorHome: Retour à la page d'accueil
-  errorTitle: Une erreur est survenue
-  errorText: Vous pouvez réessayer dans un moment.
-  history: Historique
-  incidentCompleted: Terminé
+  activeIncidents: Incidents actifs
+  allSystemsOperational: Tous les systèmes sont opérationnels
   incidentReport: "Rapport d'incident n° $NUMBER →"
+  activeIncidentSummary: Ouvert à $DATE avec $POSTS publications
+  incidentTitle: Détails de l'incident $NUMBER
+  incidentDetails: Détails de l'incident
   incidentFixed: Résolu
   incidentOngoing: En cours
-  incidentScheduled: Prévu
   incidentOpenedAt: Ouvert à
   incidentClosedAt: Fermé à
-  incidentViewOnGitHub: Voir et suivre sur GitHub
+  incidentViewOnGitHub: Voir et s'abonner sur GitHub
+  incidentCommentSummary: Posté à $DATE par $AUTHOR
+  incidentBack: ← Retour à tous les incidents
+  pastIncidents: Incidents passés
+  pastIncidentsResolved: Résolu en $MINUTES minutes avec $POSTS publications
   liveStatus: Statut en direct
-  overallUptimeTitle: Disponibilité totale
-  overallUptime: "Disponibilité totale : $UPTIME"
-  pastScheduledMaintenance: Maintenance planifiée précédente
-  startedAt: Commencé à
-  startsAt: Commence à
-  scheduledMaintenance: Maintenance planifiée
-  scheduledMaintenanceSummaryStarted: Commencé le $DATE pendant $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Commence le $DATE dans $DURATION minutes
-  responseTime: Temps de réponse
+  overallUptime: "Disponibilité globale : $UPTIME"
+  overallUptimeTitle: Disponibilité globale
+  averageResponseTime: "Temps de réponse moyen : $TIME ms"
+  averageResponseTimeTitle: Temps de réponse moyen
+  sevelDayResponseTime: Temps de réponse sur 7 jours
   responseTimeMs: Temps de réponse (ms)
-  uptime: Disponibilité
   up: En ligne
   down: Hors ligne
   degraded: Dégradé
+  ms: ms
   loading: Chargement
-  footer: "Cette page est [open source]($REPO) et fonctionne avec [Upptime](https://upptime.js.org)."
+  navGitHub: GitHub
+  footer: Cette page est [open source]($REPO), alimentée par [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Limite de taux dépassée
+  rateLimitExceededIntro: Vous avez dépassé le nombre de requêtes que vous pouvez faire en une heure, vous devrez donc attendre avant d'accéder à ce site Web à nouveau. Alternativement, vous pouvez ajouter un jeton d'accès personnel GitHub pour continuer à utiliser ce site.
+  rateLimitExceededWhatDoesErrorMean: Que signifie cette erreur ?
+  rateLimitExceededErrorMeaning: Ce site utilise l'API GitHub pour accéder aux données en temps réel sur l'état de nos sites. Par défaut, GitHub permet à chaque adresse IP 60 requêtes par heure, que vous avez consommées.
+  rateLimitExceededErrorHowCanFix: Comment puis-je le réparer ?
+  rateLimitExceededErrorFix: Vous pouvez attendre une heure de plus et la limite de votre adresse IP sera restaurée. Alternativement, vous pouvez ajouter votre jeton d'accès personnel GitHub, ce qui vous donne 5 000 requêtes supplémentaires par heure.
+  rateLimitExceededGeneratePAT: Apprenez à générer un jeton d'accès personnel
+  rateLimitExceededHasSet: Vous avez un jeton d'accès personnel défini.
+  rateLimitExceededRemoveToken: Supprimer le jeton
+  rateLimitExceededGitHubPAT: Jeton d'accès personnel GitHub
+  rateLimitExceededCopyPastePAT: Copiez et collez votre jeton
+  rateLimitExceededSaveToken: Enregistrer le jeton
+  errorTitle: Une erreur est survenue
+  errorIntro: Une erreur est survenue en essayant d'obtenir les derniers détails de statut.
+  errorText: Vous pouvez réessayer dans quelques instants.
+  errorHome: Aller à la page d'accueil
+  pastScheduledMaintenance: Maintenance planifiée précédente
+  scheduledMaintenance: Maintenance planifiée
+  scheduledMaintenanceSummaryStarted: Commencé à $DATE pour $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Commence à $DATE pour $DURATION minutes
+  startedAt: Commencé à
+  startsAt: Commence à
+  duration: Durée
+  durationMin: $DURATION minutes
+  incidentCompleted: Terminé
+  incidentScheduled: Prévu
+  duration24H: 24h
+  duration7D: 7j
+  duration30D: 30j
+  duration1Y: 1 an
+  durationAll: tout
   locale: fr-FR
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
