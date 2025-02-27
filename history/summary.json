@@ -94,18 +94,20 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 911,
-    "timeWeek": 752,
-    "timeMonth": 826,
-    "timeYear": 826,
-    "dailyMinutesDown": {}
+    "time": 833,
+    "timeDay": 936,
+    "timeWeek": 764,
+    "timeMonth": 833,
+    "timeYear": 833,
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "twitch",
