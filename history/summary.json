@@ -13,7 +13,7 @@
     "time": 115,
     "timeDay": 272,
     "timeWeek": 220,
-    "timeMonth": 132,
+    "timeMonth": 144,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 194,
     "timeDay": 154,
     "timeWeek": 114,
-    "timeMonth": 148,
+    "timeMonth": 145,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 306,
     "timeDay": 338,
     "timeWeek": 317,
-    "timeMonth": 352,
+    "timeMonth": 350,
     "timeYear": 306,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 108,
     "timeDay": 93,
     "timeWeek": 93,
-    "timeMonth": 103,
+    "timeMonth": 104,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -77,15 +77,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/x.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 341,
     "timeDay": 109,
     "timeWeek": 98,
-    "timeMonth": 359,
+    "timeMonth": 407,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-03-10": 108
@@ -96,17 +96,17 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "91.65%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "91.64%",
     "uptimeWeek": "97.67%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "99.23%",
-    "time": 851,
-    "timeDay": 978,
-    "timeWeek": 827,
-    "timeMonth": 846,
-    "timeYear": 851,
+    "uptimeYear": "99.24%",
+    "time": 855,
+    "timeDay": 998,
+    "timeWeek": 840,
+    "timeMonth": 860,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2025-03-25": 98,
       "2025-03-24": 21,
@@ -133,7 +133,7 @@
     "time": 146,
     "timeDay": 223,
     "timeWeek": 129,
-    "timeMonth": 144,
+    "timeMonth": 149,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -151,7 +151,7 @@
     "time": 115,
     "timeDay": 141,
     "timeWeek": 124,
-    "timeMonth": 101,
+    "timeMonth": 103,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-03-04": 25
@@ -189,7 +189,7 @@
     "time": 1346,
     "timeDay": 1202,
     "timeWeek": 1254,
-    "timeMonth": 1184,
+    "timeMonth": 1199,
     "timeYear": 1346,
     "dailyMinutesDown": {}
   },
@@ -207,7 +207,7 @@
     "time": 277,
     "timeDay": 655,
     "timeWeek": 358,
-    "timeMonth": 280,
+    "timeMonth": 271,
     "timeYear": 277,
     "dailyMinutesDown": {}
   }
