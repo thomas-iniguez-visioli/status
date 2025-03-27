@@ -58,19 +58,19 @@
     "url": "https://discord.com",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 107,
-    "timeWeek": 105,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 108,
+    "timeDay": 101,
+    "timeWeek": 103,
     "timeMonth": 106,
-    "timeYear": 109,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-03-27": 0
+      "2025-03-27": 21
     }
   },
   {
