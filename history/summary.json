@@ -99,13 +99,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "97.54%",
-    "uptimeDay": "88.16%",
+    "uptime": "97.55%",
+    "uptimeDay": "90.06%",
     "uptimeWeek": "93.81%",
     "uptimeMonth": "95.76%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.55%",
     "time": 840,
-    "timeDay": 749,
+    "timeDay": 788,
     "timeWeek": 758,
     "timeMonth": 835,
     "timeYear": 840,
@@ -201,9 +201,9 @@
     "url": "https://www.toutatice.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.toutatice.fr.ico",
     "slug": "toutatice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -212,7 +212,9 @@
     "timeWeek": 1225,
     "timeMonth": 1249,
     "timeYear": 1324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 0
+    }
   },
   {
     "name": "linkedin",
