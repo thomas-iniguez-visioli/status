@@ -98,15 +98,15 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "97.10%",
-    "uptimeDay": "85.86%",
+    "status": "down",
+    "uptime": "97.12%",
+    "uptimeDay": "89.38%",
     "uptimeWeek": "91.16%",
     "uptimeMonth": "93.12%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.12%",
     "time": 851,
-    "timeDay": 1156,
-    "timeWeek": 912,
+    "timeDay": 1128,
+    "timeWeek": 909,
     "timeMonth": 846,
     "timeYear": 851,
     "dailyMinutesDown": {
@@ -142,7 +142,7 @@
       "2025-04-07": 45,
       "2025-04-06": 73,
       "2025-04-05": 64,
-      "2025-04-04": 62
+      "2025-04-04": 47
     }
   },
   {
@@ -229,17 +229,19 @@
     "url": "https://www.linkedin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linkedin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 164,
-    "timeWeek": 260,
-    "timeMonth": 265,
-    "timeYear": 285,
-    "dailyMinutesDown": {}
+    "time": 283,
+    "timeDay": 120,
+    "timeWeek": 237,
+    "timeMonth": 260,
+    "timeYear": 283,
+    "dailyMinutesDown": {
+      "2025-05-06": 0
+    }
   }
 ]
