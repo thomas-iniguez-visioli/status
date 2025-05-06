@@ -189,19 +189,19 @@
     "url": "https://stackoverflow.com",
     "icon": "https://icons.duckduckgo.com/ip3/stackoverflow.com.ico",
     "slug": "stack",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
-    "time": 281,
-    "timeDay": 194,
-    "timeWeek": 273,
-    "timeMonth": 301,
-    "timeYear": 281,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.93%",
+    "time": 280,
+    "timeDay": 203,
+    "timeWeek": 270,
+    "timeMonth": 300,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-05-06": 39
+      "2025-05-06": 80
     }
   },
   {
