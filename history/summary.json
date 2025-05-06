@@ -100,7 +100,7 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "97.10%",
-    "uptimeDay": "83.18%",
+    "uptimeDay": "85.86%",
     "uptimeWeek": "91.16%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "97.10%",
@@ -189,19 +189,19 @@
     "url": "https://stackoverflow.com",
     "icon": "https://icons.duckduckgo.com/ip3/stackoverflow.com.ico",
     "slug": "stack",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 283,
-    "timeDay": 187,
-    "timeWeek": 291,
-    "timeMonth": 308,
+    "timeDay": 241,
+    "timeWeek": 297,
+    "timeMonth": 309,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-05-06": 0
+      "2025-05-06": 39
     }
   },
   {
