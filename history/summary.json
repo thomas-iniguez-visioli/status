@@ -98,19 +98,19 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "87.99%",
-    "uptimeWeek": "91.16%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "97.12%",
-    "time": 851,
-    "timeDay": 983,
-    "timeWeek": 910,
-    "timeMonth": 843,
-    "timeYear": 851,
+    "status": "down",
+    "uptime": "97.14%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "91.66%",
+    "uptimeMonth": "93.05%",
+    "uptimeYear": "97.14%",
+    "time": 850,
+    "timeDay": 966,
+    "timeWeek": 913,
+    "timeMonth": 846,
+    "timeYear": 850,
     "dailyMinutesDown": {
-      "2025-05-07": 27,
+      "2025-05-07": 28,
       "2025-05-06": 150,
       "2025-05-05": 230,
       "2025-05-04": 69,
@@ -142,8 +142,7 @@
       "2025-04-08": 55,
       "2025-04-07": 45,
       "2025-04-06": 73,
-      "2025-04-05": 64,
-      "2025-04-04": 21
+      "2025-04-05": 64
     }
   },
   {
@@ -210,9 +209,9 @@
     "url": "https://www.toutatice.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.toutatice.fr.ico",
     "slug": "toutatice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -222,6 +221,7 @@
     "timeMonth": 1279,
     "timeYear": 1315,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-15": 23
     }
   },
