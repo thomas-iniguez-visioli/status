@@ -98,15 +98,15 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "97.41%",
-    "uptimeDay": "84.84%",
+    "status": "down",
+    "uptime": "97.43%",
+    "uptimeDay": "87.57%",
     "uptimeWeek": "92.93%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "97.41%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "97.43%",
     "time": 873,
-    "timeDay": 982,
-    "timeWeek": 960,
+    "timeDay": 981,
+    "timeWeek": 966,
     "timeMonth": 904,
     "timeYear": 873,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
       "2025-04-22": 223,
       "2025-04-21": 26,
       "2025-04-20": 77,
-      "2025-04-19": 95
+      "2025-04-19": 67
     }
   },
   {
