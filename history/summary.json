@@ -102,7 +102,7 @@
     "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.37%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "97.92%",
     "time": 872,
     "timeDay": 1101,
@@ -228,17 +228,19 @@
     "url": "https://www.linkedin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linkedin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 405,
-    "timeWeek": 305,
-    "timeMonth": 304,
-    "timeYear": 292,
-    "dailyMinutesDown": {}
+    "time": 291,
+    "timeDay": 278,
+    "timeWeek": 286,
+    "timeMonth": 300,
+    "timeYear": 291,
+    "dailyMinutesDown": {
+      "2025-06-10": 0
+    }
   }
 ]
