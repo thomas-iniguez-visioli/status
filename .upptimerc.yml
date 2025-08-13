@@ -15,6 +15,7 @@ sites:
   - name: twitter
     url: https://x.com
     expectedStatusCodes:
+        - 200
         - 400
   - name: instagram
     url: https://instagram.com
