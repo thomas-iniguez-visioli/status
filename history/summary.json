@@ -160,18 +160,20 @@
     "url": "https://twitch.tv",
     "icon": "https://icons.duckduckgo.com/ip3/twitch.tv.ico",
     "slug": "twitch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 197,
-    "timeWeek": 245,
-    "timeMonth": 209,
+    "timeDay": 181,
+    "timeWeek": 235,
+    "timeMonth": 208,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-24": 0
+    }
   },
   {
     "name": "github",
