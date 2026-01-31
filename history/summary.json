@@ -13,7 +13,7 @@
     "time": 129,
     "timeDay": 0,
     "timeWeek": 93,
-    "timeMonth": 170,
+    "timeMonth": 172,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2025-12-14": 81,
@@ -38,7 +38,7 @@
     "time": 195,
     "timeDay": 0,
     "timeWeek": 120,
-    "timeMonth": 148,
+    "timeMonth": 147,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2025-12-03": 16
@@ -58,7 +58,7 @@
     "time": 314,
     "timeDay": 0,
     "timeWeek": 115,
-    "timeMonth": 320,
+    "timeMonth": 318,
     "timeYear": 319,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "time": 129,
     "timeDay": 0,
     "timeWeek": 89,
-    "timeMonth": 120,
+    "timeMonth": 122,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-12-05": 34,
@@ -98,7 +98,7 @@
     "time": 202,
     "timeDay": 0,
     "timeWeek": 158,
-    "timeMonth": 224,
+    "timeMonth": 228,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2026-01-16": 56,
@@ -114,18 +114,19 @@
     "url": "https://instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "96.07%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "96.05%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.34%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.35%",
     "time": 837,
-    "timeDay": 759,
-    "timeWeek": 851,
-    "timeMonth": 709,
+    "timeDay": 618,
+    "timeWeek": 722,
+    "timeMonth": 705,
     "timeYear": 837,
     "dailyMinutesDown": {
+      "2026-01-31": 0,
       "2026-01-30": 57,
       "2026-01-20": 19,
       "2026-01-09": 97,
@@ -179,7 +180,7 @@
       "2025-05-18": 142,
       "2025-05-17": 170,
       "2025-05-16": 78,
-      "2025-05-15": 149
+      "2025-05-15": 113
     }
   },
   {
@@ -196,7 +197,7 @@
     "time": 193,
     "timeDay": 0,
     "timeWeek": 98,
-    "timeMonth": 213,
+    "timeMonth": 217,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-09-24": 1182
@@ -241,7 +242,7 @@
     "time": 317,
     "timeDay": 0,
     "timeWeek": 314,
-    "timeMonth": 349,
+    "timeMonth": 353,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-12-05": 34,
@@ -267,7 +268,7 @@
     "time": 1166,
     "timeDay": 0,
     "timeWeek": 1306,
-    "timeMonth": 899,
+    "timeMonth": 895,
     "timeYear": 1166,
     "dailyMinutesDown": {
       "2026-01-20": 48,
@@ -291,7 +292,7 @@
     "time": 259,
     "timeDay": 0,
     "timeWeek": 172,
-    "timeMonth": 246,
+    "timeMonth": 245,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2025-06-10": 18
