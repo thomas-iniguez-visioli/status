@@ -13,7 +13,7 @@
     "time": 129,
     "timeDay": 0,
     "timeWeek": 93,
-    "timeMonth": 172,
+    "timeMonth": 176,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2025-12-14": 81,
@@ -38,7 +38,7 @@
     "time": 195,
     "timeDay": 0,
     "timeWeek": 120,
-    "timeMonth": 147,
+    "timeMonth": 151,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2025-12-03": 16
@@ -58,7 +58,7 @@
     "time": 314,
     "timeDay": 0,
     "timeWeek": 115,
-    "timeMonth": 318,
+    "timeMonth": 327,
     "timeYear": 319,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "time": 129,
     "timeDay": 0,
     "timeWeek": 89,
-    "timeMonth": 122,
+    "timeMonth": 124,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-12-05": 34,
@@ -98,7 +98,7 @@
     "time": 202,
     "timeDay": 0,
     "timeWeek": 158,
-    "timeMonth": 228,
+    "timeMonth": 230,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2026-01-16": 56,
@@ -116,14 +116,14 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "87.22%",
+    "uptimeDay": "91.15%",
     "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.65%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.33%",
     "time": 837,
-    "timeDay": 720,
+    "timeDay": 701,
     "timeWeek": 765,
-    "timeMonth": 711,
+    "timeMonth": 705,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2026-01-31": 127,
@@ -197,7 +197,7 @@
     "time": 193,
     "timeDay": 0,
     "timeWeek": 98,
-    "timeMonth": 217,
+    "timeMonth": 221,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-09-24": 1182
@@ -217,7 +217,7 @@
     "time": 163,
     "timeDay": 0,
     "timeWeek": 180,
-    "timeMonth": 147,
+    "timeMonth": 145,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2026-01-15": 45,
@@ -242,7 +242,7 @@
     "time": 317,
     "timeDay": 0,
     "timeWeek": 314,
-    "timeMonth": 353,
+    "timeMonth": 357,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-12-05": 34,
@@ -268,7 +268,7 @@
     "time": 1166,
     "timeDay": 0,
     "timeWeek": 1306,
-    "timeMonth": 895,
+    "timeMonth": 884,
     "timeYear": 1166,
     "dailyMinutesDown": {
       "2026-01-20": 48,
@@ -292,7 +292,7 @@
     "time": 259,
     "timeDay": 0,
     "timeWeek": 172,
-    "timeMonth": 245,
+    "timeMonth": 247,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2025-06-10": 18
