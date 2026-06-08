@@ -264,9 +264,9 @@
     "url": "https://www.toutatice.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.toutatice.fr.ico",
     "slug": "toutatice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.21%",
     "uptimeYear": "99.61%",
@@ -280,7 +280,8 @@
       "2025-07-30": 252,
       "2026-01-20": 48,
       "2026-05-15": 1268,
-      "2026-05-14": 394
+      "2026-05-14": 394,
+      "2026-06-08": 0
     }
   },
   {
