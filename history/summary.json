@@ -44,7 +44,7 @@
     "timeDay": 242,
     "timeWeek": 458,
     "timeMonth": 238,
-    "timeYear": 189,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2025-12-03": 16
     }
@@ -64,7 +64,7 @@
     "timeDay": 343,
     "timeWeek": 252,
     "timeMonth": 320,
-    "timeYear": 293,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -82,7 +82,7 @@
     "timeDay": 106,
     "timeWeek": 89,
     "timeMonth": 82,
-    "timeYear": 104,
+    "timeYear": 103,
     "dailyMinutesDown": {
       "2025-12-05": 34
     }
@@ -102,7 +102,7 @@
     "timeDay": 260,
     "timeWeek": 203,
     "timeMonth": 197,
-    "timeYear": 467,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2025-11-18": 22,
       "2025-12-28": 72,
@@ -226,11 +226,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stackoverflow.com.ico",
     "slug": "stack",
     "status": "down",
-    "uptime": "89.21%",
+    "uptime": "89.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.54%",
+    "uptimeYear": "82.31%",
     "time": 305,
     "timeDay": 282,
     "timeWeek": 156,
@@ -242,7 +242,8 @@
       "2025-12-05": 34,
       "2026-07-17": 61,
       "2026-07-30": 113,
-      "2026-10-03": 275,
+      "2026-10-04": 10,
+      "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
@@ -316,14 +317,14 @@
     "slug": "toutatice",
     "status": "up",
     "uptime": "82.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.57%",
-    "uptimeYear": "71.63%",
-    "time": 1083,
-    "timeDay": 1383,
-    "timeWeek": 1066,
-    "timeMonth": 952,
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "50.93%",
+    "uptimeYear": "71.60%",
+    "time": 1082,
+    "timeDay": 1217,
+    "timeWeek": 1081,
+    "timeMonth": 968,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2026-01-20": 48,
@@ -433,7 +434,9 @@
       "2026-06-09": 1440,
       "2026-06-08": 750,
       "2026-09-20": 240,
-      "2026-09-25": 255
+      "2026-09-25": 255,
+      "2026-10-04": 9,
+      "2026-10-03": 132
     }
   },
   {
